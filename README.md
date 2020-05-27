@@ -1,5 +1,5 @@
 # dartflutter
-Studying Dart and Flutter
+Estudando Dart e Flutter
 
-# Starting studies with Dart and Flutter
+# Iniciando os estudos com Dart e Flutter
 - Lógica de programação com Dart
