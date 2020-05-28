@@ -27,7 +27,7 @@ main(){
 
 void Imprimir(List<String> value) {
   for (var i = 0; i < value.length; i++) {
-    String text = i.toString() + " - " + value[i].toString();
+    String text = "Item $i - ${value[i]}";
     
     print(text);
   }
